@@ -38,7 +38,7 @@ Technologies Used
 
 •Language: Java.
 
-•IDE: VS Code / IntelliJ IDEA.
+•IDE: VS Code.
 
 •Platform: GitHub.
 
