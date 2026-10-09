@@ -8,26 +8,31 @@ Topics Covered
 Understanding time complexity
 Understanding space complexity
 Big O notation basics
-3. Arrays
+
+2. Arrays
 Find the largest and smallest elements
 Calculate the sum of array elements
 Reverse an array
 Remove duplicate elements
-4. Searching Algorithms
+
+3. Searching Algorithms
 Linear Search
 Binary Search
-5. Sorting Algorithms
+
+4. Sorting Algorithms
 Bubble Sort
 Selection Sort
 Insertion Sort
 Merge Sort
 Quick Sort
-7. Recursion
+
+5. Recursion
 Introduction to recursion
 Factorial using recursion
 Sum of numbers using recursion
 Reverse a number using recursion
 
+----
 Technologies Used
 
 
@@ -37,7 +42,7 @@ Technologies Used
 
 •Platform: GitHub.
 
-
+----
 My Goal
 
 -Strengthen my problem-solving skills.
